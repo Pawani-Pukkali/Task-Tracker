@@ -1,0 +1,8 @@
+flask==2.3.3
+flask_sqlalchemy==3.0.2
+flask_migrate==4.0.0
+flask_login==0.6.2
+flask_wtf==1.0.1
+flask_mail==0.9.1
+flask_bcrypt==1.5.0
+flask_cors==3.0.10 
